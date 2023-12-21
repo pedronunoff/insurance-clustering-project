@@ -2,7 +2,7 @@
 
 This project was developed for the Data Mining course from the Master's Degree in Data Science and Advanced Analytics (NOVA IMS).
 
-The goal was to use Unsupervised Learning to cluster types of customers from a fictional insurance company in order to build a marketing strategy to increase profit and improve the company. The data from the clients had demographic and value related variables. All code was developed with Python.
+The goal was to use Unsupervised Learning to cluster types of customers from a fictional insurance company in order to build a marketing strategy to increase profit and improve the company. The data from the clients had demographic and value related variables. All code was developed in Python.
 
 ## Main Steps (and main methods/algorithms)
 
